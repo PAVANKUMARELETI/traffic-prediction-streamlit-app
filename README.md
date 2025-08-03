@@ -12,7 +12,6 @@ The project consists of two main parts:
 
 ## Screenshot of the App
 
-*(**Action Required:** Run your app and take a screenshot. Save it as `app_screenshot.png` in your project folder, and this image will automatically appear here.)*
 
 ![App Screenshot](app_screenshot.png)
 
@@ -39,10 +38,10 @@ To run this project on your local machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/traffic-prediction-streamlit-app.git](https://github.com/YOUR_USERNAME/traffic-prediction-streamlit-app.git)
+git clone [https://github.com/PAVANKUMARELETI/traffic-prediction-streamlit-app.git](https://github.com/PAVANKUMARELETI/traffic-prediction-streamlit-app.git)
 cd traffic-prediction-streamlit-app
 ```
-*(Replace `YOUR_USERNAME` with your GitHub username)*
+
 
 **2. Create and activate a virtual environment:**
 ```bash
